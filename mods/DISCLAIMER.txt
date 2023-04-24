@@ -1,0 +1,5 @@
+Les mods contenus dans ce dossier ne m'appartiennent pas. Ils sont présent ici afin de simplifier le processus d'installation.
+Voici le liens vers la page des mods:
+
+Litematica: https://www.curseforge.com/minecraft/mc-mods/litematica
+MaLiLib: https://legacy.curseforge.com/minecraft/mc-mods/malilib
