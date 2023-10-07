@@ -40,6 +40,12 @@ header {
     background-color: #1e1e1e;
 }
 
+.multibutton {
+    display: flex;
+
+    margin: 0.8% 0;
+}
+
 .logo {
     font-size: 3em;
     font-weight: bolder;
@@ -55,7 +61,6 @@ header {
     font-weight: bolder;
     background-color: #008a45;
     padding: 0.75em 1.5em;
-    margin: 0.5em 0;
 }
 
 @media screen and (max-width: 1080px) {
